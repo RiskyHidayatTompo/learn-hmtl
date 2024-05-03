@@ -1,4 +1,8 @@
 <style>
+body{
+    background-color: #3498db;
+        color: #ffffff;
+}
     ChangeBackgroundButton {
         background-color: #3498db;
         color: #ffffff;
